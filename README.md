@@ -1,4 +1,4 @@
-# IMDb Movie Analysis using Python
+# IMDb Movie Analysis Python
 
 ## Project Overview
 This project explores and analyzes movie industry trends using the IMDb/TMDB movie dataset with Python in Jupyter Notebook. The analysis focuses on understanding movie performance through revenue, profit, genres, directors, and release trends.
