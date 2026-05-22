@@ -84,16 +84,13 @@ The analysis includes:
 ## Visualizations
 
 ### Revenue Analysis
-![Revenue Chart](<img width="984" height="584" alt="Revenue" src="https://github.com/user-attachments/assets/05ce4563-ce00-4a6b-940a-5377d6010a42" />
-)
+<img width="984" height="584" alt="Revenue" src="https://github.com/user-attachments/assets/05ce4563-ce00-4a6b-940a-5377d6010a42" />
 
 ### Genre Analysis
-![Genre Chart](<img width="984" height="584" alt="Genre" src="https://github.com/user-attachments/assets/c8d00082-d027-40f3-a485-6a0c68149959" />
-)
+<img width="984" height="584" alt="Genre" src="https://github.com/user-attachments/assets/c8d00082-d027-40f3-a485-6a0c68149959" />
 
 ### Profit Analysis
-![Profit Chart](<img width="984" height="584" alt="Profit" src="https://github.com/user-attachments/assets/2855b499-b2b6-4b4a-b08d-aa20f413a195" />
-)
+<img width="984" height="584" alt="Profit" src="https://github.com/user-attachments/assets/2855b499-b2b6-4b4a-b08d-aa20f413a195" />
 
 ---
 
@@ -102,13 +99,13 @@ The analysis includes:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/imdb-movie-analysis-python.git
+git clone (https://github.com/Olasuposamuel/IMDb-Movie-Analysis-Python)
 ```
 
 2. Navigate to the project folder
 
 ```bash
-cd imdb-movie-analysis-python
+ imdb-movie-analysis-python
 ```
 
 3. Install the required libraries
